@@ -1,0 +1,6 @@
+About Modern Naval Battles Launcher,
+
+Modern Naval Battles Launcher is created for removing penguinmod's 8 minute upload waiting rule because Maybe I will load Modern Naval Battles with error.
+So I must fix it but When I load fixed, It says "You can upload project by 8 minuter per". So I can't load.
+
+Finally, I made this system for loaing at second.
